@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/ced17i026/ChatMe#readme",
   "dependencies": {
+    "body-parser": "^1.18.3",
     "express": "^4.16.4"
   }
 }
