@@ -1,0 +1,22 @@
+{
+  "name": "chatme",
+  "version": "1.0.0",
+  "description": "Simple Chat app with Socket.io and Express.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ced17i026/ChatMe.git"
+  },
+  "author": "Shiv Shankar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ced17i026/ChatMe/issues"
+  },
+  "homepage": "https://github.com/ced17i026/ChatMe#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
